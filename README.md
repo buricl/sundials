@@ -36,7 +36,7 @@ nonlinear algebraic systems:
 
 ## Installation ##
 
-For installation directions see the [online install guide](https://sundials.readthedocs.io/en/latest/Install_link.html),
+For installation directions see the [online install guide](https://sundials.readthedocs.io/en/latest/sundials/Install_link.html),
 the installation chapter in any of the package user guides, or INSTALL_GUIDE.pdf.
 
 Warning to users who receive more than one of the individual packages at
